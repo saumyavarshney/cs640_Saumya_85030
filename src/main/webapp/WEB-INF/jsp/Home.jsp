@@ -6,7 +6,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Spring MVC and Hibernate Template</title>
+    
 
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,6 +23,15 @@
 </head>
 
 <body>
+<h1>Saumya Varshney Student ID 85030</h1>
+<hr>
+<p>1) Got detailed knowledge of OSI model. </p>
+<p>2) Learned about routers,hubs,Switches and types of Switching. </p>
+<p>3) Learned about Private networks and VPN. </p>
+<p>4) Got detailed knowledge about Encryption. </p>
+<p>5) Learned about Hacking. </p>
+<p>6) Learned how to prioritize work and team work. </p>
+<!--  
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
         <div class="container">
@@ -70,6 +79,6 @@
         </div>
     </div>
 </div>
-
+-->
 </body>
 </html>
